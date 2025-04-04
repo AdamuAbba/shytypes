@@ -33,7 +33,7 @@ enableTwemoji = true
 name = "Github"
 icon = "fa-brands fa-github fa-2x"
 weight = 1
-url = "https://github.com/AdamuAbba/"
+url = "https://www.github.com/AdamuAbba/"
 
 [[params.social]]
 name = "PGP"
@@ -51,13 +51,13 @@ url = "mailto:abbaadamu302@gmail.com"
 name = "Discord"
 icon = "fa-brands fa-discord fa-2x"
 weight = 3
-url = "mailto:abbaadamu302@gmail.com"
+url = "https://discordapp.com/users/1026887942339309679"
 
 [[params.social]]
 name = "Nostr"
 icon = "fa-solid fa-crow fa-2x"
 weight = 4
-url = "primal.net/p/nprofile1qqs2c3rapzwzjqr6093sqkefxgnv9lzeg2s3z55x058lz8q70j64w4sympgsa"
+url = "https://primal.net/p/nprofile1qqs2c3rapzwzjqr6093sqkefxgnv9lzeg2s3z55x058lz8q70j64w4sympgsa"
 
 [[params.social]]
 name = "Matrix"
