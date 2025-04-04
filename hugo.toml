@@ -1,0 +1,87 @@
+title = 'Shytypes'
+theme = "hugo-coder"
+baseURL = 'adamuabba.github.io'
+languageCode = 'en-us'
+defaultContentLanguage = "en"
+enableEmoji = true
+
+[markup]
+[markup.highlight]
+noClasses = false
+style = "dracula"
+
+[params]
+author = "Shytypes"
+info = [
+  "`₿itcoin open source developer 🦀`",
+  "`8433 EA53 F186 3F4F CF9F 2DD8 B87C C68C F426 C819`",
+]
+description = "Shytypes portfolio site"
+keywords = "developer,personal,portfolio,website,bitcoin,open source"
+avatarurl = "images/dp.png"
+colorScheme = "dark"
+hidecolorschemetoggle = true
+disableDefaultJsScripts = true
+favicon_32 = "images/favicon/favicon-32x32.png"
+favicon_16 = "images/favicon/favicon-16x16.png"
+faviconSVG = "images/favicon/shy-face.svg"
+touchIcon = "images/favicon/apple-touch-icon.png"
+enableTwemoji = true
+
+# Social links
+[[params.social]]
+name = "Github"
+icon = "fa-brands fa-github fa-2x"
+weight = 1
+url = "https://github.com/AdamuAbba/"
+
+[[params.social]]
+name = "PGP"
+icon = "fa-solid fa-key fa-2x"
+weight = 2
+url = "PGP.asc"
+
+[[params.social]]
+name = "Email"
+icon = "fa-solid fa-at fa-2x"
+weight = 3
+url = "mailto:abbaadamu302@gmail.com"
+
+[[params.social]]
+name = "Discord"
+icon = "fa-brands fa-discord fa-2x"
+weight = 3
+url = "mailto:abbaadamu302@gmail.com"
+
+[[params.social]]
+name = "Nostr"
+icon = "fa-solid fa-crow fa-2x"
+weight = 4
+url = "primal.net/p/nprofile1qqs2c3rapzwzjqr6093sqkefxgnv9lzeg2s3z55x058lz8q70j64w4sympgsa"
+
+[[params.social]]
+name = "Matrix"
+icon = "fa-solid fa-m fa-2x"
+weight = 6
+url = "https://matrix.to/#/@shytypes1028:matrix.org"
+
+[[params.social]]
+name = "Twitter"
+icon = "fa-brands fa-x-twitter fa-2x"
+weight = 3
+url = "https://www.x.com/shytypes1028"
+
+[[params.social]]
+name = "LinkedIn"
+icon = "fa-brands fa-linkedin fa-2x"
+weight = 4
+url = "https://www.linkedin.com/in/shytypes1028"
+
+[languages.en]
+languageName = ":uk:"
+
+[[languages.en.menu.main]]
+name = "Articles"
+weight = 2
+target = "_blank"
+url = "https://shytypes.gitbook.io/articles/"
